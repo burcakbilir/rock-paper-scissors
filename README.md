@@ -1,4 +1,6 @@
 # rock-paper-scissors
  
-![](images/homePage.png)
-![](images/playground.png)
+<img src="images/homePage.png" width="300" height="200">
+
+<img src="images/playground.png" width="300" height="200">
+
